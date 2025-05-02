@@ -21,7 +21,7 @@ else:
 
 # Step 4: Save to markdown
 date = datetime.datetime.now().strftime("%Y-%m-%d")
-with open("word_of_the_day.md", "w", encoding="utf-8") as f:
+with open("README.md", "w", encoding="utf-8") as f:
     f.write(f"# Word of the Day ({date})\n\n")
     f.write(f"**{word.capitalize()}**\n\n")
     f.write(f"**Meaning:** {meaning}\n")
