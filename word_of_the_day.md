@@ -1,5 +1,5 @@
 # Word of the Day (2025-05-04)
 
-**Showcase**
+**Bulb**
 
-**Meaning:** A case for displaying merchandise or valuable items.
+**Meaning:** Any solid object rounded at one end and tapering on the other, possibly attached to a larger object at the tapered end.
