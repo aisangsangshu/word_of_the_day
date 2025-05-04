@@ -1,27 +1,31 @@
 import requests
 import datetime
 
-# Step 1: Get a random word from Random Word API
-word_response = requests.get("https://random-word-api.herokuapp.com/word")
-word = word_response.json()[0]
+# Get random word
+word = "default"
+try:
+    word_response = requests.get("https://random-word-api.vercel.app/api?words=1")
+    word_response.raise_for_status()  # Will throw error if status code is not 2xx
 
-# Step 2: Get the definition from Free Dictionary API
-definition_url = f"https://api.dictionaryapi.dev/api/v2/entries/en/{word}"
-def_response = requests.get(definition_url)
+    words = word_response.json()
+    if words:
+        word = words[0]
+except Exception as e:
+    print(f"Failed to get word: {e}")
 
-# Step 3: Parse the definition
-if def_response.status_code == 200:
-    data = def_response.json()
-    try:
-        meaning = data[0]['meanings'][0]['definitions'][0]['definition']
-    except (KeyError, IndexError):
-        meaning = "Definition structure not found."
-else:
-    meaning = "Definition not found."
+# Get meaning
+meaning = "Definition not found."
+try:
+    meaning_response = requests.get(f"https://api.dictionaryapi.dev/api/v2/entries/en/{word}")
+    if meaning_response.status_code == 200:
+        meaning_data = meaning_response.json()
+        meaning = meaning_data[0]['meanings'][0]['definitions'][0]['definition']
+except Exception as e:
+    print(f"Failed to get meaning: {e}")
 
-# Step 4: Save to markdown
-date = datetime.datetime.now().strftime("%Y-%m-%d")
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(f"# Word of the Day ({date})\n\n")
+# Write to markdown
+today = datetime.datetime.now().strftime("%Y-%m-%d")
+with open("word_of_the_day.md", "w", encoding="utf-8") as f:
+    f.write(f"# Word of the Day ({today})\n\n")
     f.write(f"**{word.capitalize()}**\n\n")
     f.write(f"**Meaning:** {meaning}\n")
