@@ -25,7 +25,8 @@ except Exception as e:
 
 # Write to markdown
 today = datetime.datetime.now().strftime("%Y-%m-%d")
-with open("word_of_the_day.md", "w", encoding="utf-8") as f:
-    f.write(f"# Word of the Day ({today})\n\n")
-    f.write(f"**{word.capitalize()}**\n\n")
-    f.write(f"**Meaning:** {meaning}\n")
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(f"## 📅 Word of the Day - {today}\n\n")
+    f.write(f"### **{word}**\n")
+    f.write(f"- **Meaning**: {meaning}\n")
+    f.write(f"\n---\n")
