@@ -1,5 +1,5 @@
-# Word of the Day (2025-05-07)
+# Word of the Day (2025-05-08)
 
-**Vastly**
+**Blanching**
 
-**Meaning:** Greatly, in a vast manner.
+**Meaning:** To grow or become white
