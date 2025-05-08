@@ -2,7 +2,7 @@ name: Word of the Day Updater
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -13,27 +13,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests
 
       - name: Run word fetch script
-        run: python fetch_word.py
+        run: |
+          python fetch_word.py
 
       - name: Configure Git
         run: |
           git config --global user.name "manas-08"
-          git config --global user.email "manasshende2004@gmail.com"
+          git config --global user.email "manashende2004@gmail.com"
 
-      - name: Set authenticated remote
+      - name: Set authentic remote
         run: git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}
 
       - name: Commit and push changes
         run: |
-          git add word_of_the_day.md
+          git add README.md
           git commit -m "Update word of the day" || echo "Nothing to commit"
           git push
