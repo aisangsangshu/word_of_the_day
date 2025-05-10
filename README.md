@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-09
+## 📅 Word of the Day - 2025-05-10
 
-### **unwell**
-- **Meaning**: Not in good health; not feeling well; somewhat ill
+### **jersey**
+- **Meaning**: A garment knitted from wool, worn over the upper body.
 
 ---
