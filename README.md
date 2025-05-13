@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-12
+## 📅 Word of the Day - 2025-05-13
 
-### **catcher**
-- **Meaning**: Someone or something that catches.
+### **shell**
+- **Meaning**: A hard external covering of an animal.
 
 ---
