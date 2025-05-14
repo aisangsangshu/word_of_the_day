@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-13
+## 📅 Word of the Day - 2025-05-14
 
-### **shell**
-- **Meaning**: A hard external covering of an animal.
+### **riverboat**
+- **Meaning**: A watercraft designed for operating on rivers.
 
 ---
