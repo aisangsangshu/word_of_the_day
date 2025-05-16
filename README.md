@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-15
+## 📅 Word of the Day - 2025-05-16
 
-### **unwieldy**
-- **Meaning**: Lacking strength; weak.
+### **rift**
+- **Meaning**: A chasm or fissure.
 
 ---
