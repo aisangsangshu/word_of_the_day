@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-17
+## 📅 Word of the Day - 2025-05-18
 
-### **blade**
-- **Meaning**: The sharp cutting edge of a knife, chisel, or other tool, a razor blade/sword.
+### **badge**
+- **Meaning**: A distinctive mark, token, sign, emblem or cognizance, worn on one's clothing, as an insignia of some rank, or of the membership of an organization.
 
 ---
