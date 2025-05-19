@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-18
+## 📅 Word of the Day - 2025-05-19
 
-### **badge**
-- **Meaning**: A distinctive mark, token, sign, emblem or cognizance, worn on one's clothing, as an insignia of some rank, or of the membership of an organization.
+### **citric**
+- **Meaning**: Of, pertaining to, or derived from, the citron or lemon.
 
 ---
