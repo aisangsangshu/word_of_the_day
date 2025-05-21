@@ -37,5 +37,13 @@ output_path = os.environ.get("GITHUB_OUTPUT")
 if output_path:
     with open(output_path, "a") as f:
         f.write(f"word={word}\n")
-        f.write(f"meaning={meaning}\n")
+        # Escape any special characters in the meaning that might break sed
+        escaped_meaning = meaning.replace("'", "'\\''").replace("&", "\\&").replace("/", "\\/")
+        f.write(f"meaning={escaped_meaning}\n")
         f.write(f"date={today}\n")
+else:
+    print("GITHUB_OUTPUT environment variable not set. Outputs will not be available to GitHub Actions.")
+    # Still print the outputs for debugging
+    print(f"::set-output name=word::{word}")
+    print(f"::set-output name=meaning::{meaning}")
+    print(f"::set-output name=date::{today}")

@@ -25,12 +25,17 @@ jobs:
         id: extract
         run: python fetch_word.py
 
+      - name: Debug outputs
+        run: |
+          echo "Word: ${{ steps.extract.outputs.word }}"
+          echo "Meaning: ${{ steps.extract.outputs.meaning }}"
+          echo "Date: ${{ steps.extract.outputs.date }}"
+
       - name: Inject word into HTML
         run: |
-          sed -e "s/{{DATE}}/${{ steps.extract.outputs.date }}/" \
-              -e "s/{{WORD}}/${{ steps.extract.outputs.word }}/" \
-              -e "s/{{MEANING}}/${{ steps.extract.outputs.meaning }}/" \
-              index.html > index.tmp && mv index.tmp index.html
+          sed -i "s|{{DATE}}|${{ steps.extract.outputs.date }}|g" index.html
+          sed -i "s|{{WORD}}|${{ steps.extract.outputs.word }}|g" index.html
+          sed -i "s|{{MEANING}}|${{ steps.extract.outputs.meaning }}|g" index.html
 
       - name: Configure Git
         run: |
