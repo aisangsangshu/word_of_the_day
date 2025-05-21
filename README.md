@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-20
+## 📅 Word of the Day - 2025-05-21
 
-### **rimless**
-- **Meaning**: Definition not found.
+### **hardcore**
+- **Meaning**: Broken bricks, stone and/or other aggregate used as foundations, especially in road and path laying.
 
 ---
