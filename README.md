@@ -1,6 +1,6 @@
 ## 📅 Word of the Day - 2025-05-21
 
-### **balsamic**
-- **Meaning**: A balsamic vinegar.
+### **reassign**
+- **Meaning**: To assign again or anew.
 
 ---
