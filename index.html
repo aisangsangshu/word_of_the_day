@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <title>Word of the Day</title>
   <!-- Google Fonts for modern typography -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
@@ -129,14 +132,51 @@
     <!-- Header -->
     <h1>Word of the Day</h1>
     
-    <!-- Word content with placeholders -->
-    <p class="date">📅 2025-05-21</p>
-    <div class="word">deprecate</div>
-    <p class="meaning"><b>Meaning</b>: To belittle or express disapproval of.</p>
+    <!-- Word content -->
+    <p class="date" id="date">📅 Loading...</p>
+    <div class="word" id="word">Loading...</div>
+    <p class="meaning" id="meaning"><b>Meaning</b>: Loading...</p>
 
+    <!-- Loading spinner (initially shown) -->
+    <div class="spinner-container" id="spinner">
+      <div class="spinner"></div>
+      <p class="loading-text">Loading today's word...</p>
+    </div>
   </div>
 
   <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Add timestamp to avoid caching
+      const timestamp = new Date().getTime();
+      
+      // Fetch the README.md file which is always updated
+      fetch('README.md?v=' + timestamp)
+        .then(response => response.text())
+        .then(data => {
+          // Parse the README.md content
+          const dateMatch = data.match(/## 📅 Word of the Day - (.*?)\n/);
+          const wordMatch = data.match(/### \*\*(.*?)\*\*/);
+          const meaningMatch = data.match(/- \*\*Meaning\*\*: (.*?)\n/);
+          
+          // Extract the information
+          const date = dateMatch ? dateMatch[1] : 'Unknown date';
+          const word = wordMatch ? wordMatch[1] : 'Unknown word';
+          const meaning = meaningMatch ? meaningMatch[1] : 'Meaning not available';
+          
+          // Update the elements
+          document.getElementById('date').innerHTML = `📅 ${date}`;
+          document.getElementById('word').innerHTML = word;
+          document.getElementById('meaning').innerHTML = `<b>Meaning</b>: ${meaning}`;
+          
+          // Hide the spinner
+          document.getElementById('spinner').style.display = 'none';
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+          document.getElementById('word').innerHTML = 'Error loading word';
+          document.getElementById('spinner').style.display = 'none';
+        });
+    });
   </script>
 </body>
 </html>
