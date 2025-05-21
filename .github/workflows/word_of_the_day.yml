@@ -26,6 +26,23 @@ jobs:
         run: |
           python fetch_word.py
 
+      - name: Extract values from README
+        id: extract
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          WORD=$(grep "| Word" README.md | cut -d '|' -f3 | xargs)
+          MEANING=$(grep "| Meaning" README.md | cut -d '|' -f3 | xargs)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "word=$WORD" >> $GITHUB_OUTPUT
+          echo "meaning=$MEANING" >> $GITHUB_OUTPUT
+
+      - name: Generate updated index.html
+        run: |
+          sed -e "s/{{DATE}}/${{ steps.extract.outputs.date }}/" \
+              -e "s/{{WORD}}/${{ steps.extract.outputs.word }}/" \
+              -e "s/{{MEANING}}/${{ steps.extract.outputs.meaning }}/" \
+              index.html > index.tmp && mv index.tmp index.html
+
       - name: Configure Git
         run: |
           git config --global user.name "manas-08"
@@ -36,6 +53,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md
-          git commit -m "Update word of the day" || echo "Nothing to commit"
+          git add README.md index.html
+          git commit -m "Update word of the day and index.html" || echo "Nothing to commit"
           git push
