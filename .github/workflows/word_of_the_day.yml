@@ -19,24 +19,13 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Run word fetch script
-        run: |
-          python fetch_word.py
-
-      - name: Extract values from README
         id: extract
-        run: |
-          DATE=$(date +'%Y-%m-%d')
-          WORD=$(grep "| Word" README.md | cut -d '|' -f3 | xargs)
-          MEANING=$(grep "| Meaning" README.md | cut -d '|' -f3 | xargs)
-          echo "date=$DATE" >> $GITHUB_OUTPUT
-          echo "word=$WORD" >> $GITHUB_OUTPUT
-          echo "meaning=$MEANING" >> $GITHUB_OUTPUT
+        run: python fetch_word.py
 
-      - name: Generate updated index.html
+      - name: Inject word into HTML
         run: |
           sed -e "s/{{DATE}}/${{ steps.extract.outputs.date }}/" \
               -e "s/{{WORD}}/${{ steps.extract.outputs.word }}/" \

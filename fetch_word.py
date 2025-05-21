@@ -1,11 +1,12 @@
 import requests
 import datetime
+import os
 
 # Get random word
 word = "default"
 try:
     word_response = requests.get("https://random-word-api.vercel.app/api?words=1")
-    word_response.raise_for_status()  # Will throw error if status code is not 2xx
+    word_response.raise_for_status()
 
     words = word_response.json()
     if words:
@@ -23,10 +24,18 @@ try:
 except Exception as e:
     print(f"Failed to get meaning: {e}")
 
-# Write to markdown
+# Write to README.md
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(f"## 📅 Word of the Day - {today}\n\n")
     f.write(f"### **{word}**\n")
     f.write(f"- **Meaning**: {meaning}\n")
     f.write(f"\n---\n")
+
+# Export values to GitHub Actions
+output_path = os.environ.get("GITHUB_OUTPUT")
+if output_path:
+    with open(output_path, "a") as f:
+        f.write(f"word={word}\n")
+        f.write(f"meaning={meaning}\n")
+        f.write(f"date={today}\n")
