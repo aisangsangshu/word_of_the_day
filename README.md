@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-22
+## 📅 Word of the Day - 2025-05-23
 
-### **decorator**
-- **Meaning**: Someone who decorates.
+### **faster**
+- **Meaning**: Firmly or securely fixed in place; stable.
 
 ---
