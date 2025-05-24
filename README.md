@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-23
+## 📅 Word of the Day - 2025-05-24
 
-### **faster**
-- **Meaning**: Firmly or securely fixed in place; stable.
+### **could**
+- **Meaning**: (auxiliary verb, defective) To know how to; to be able to.
 
 ---
