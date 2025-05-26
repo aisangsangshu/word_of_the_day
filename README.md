@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-25
+## 📅 Word of the Day - 2025-05-26
 
-### **scrambler**
-- **Meaning**: Someone or something that scrambles (in various senses).
+### **doozy**
+- **Meaning**: Something that is extraordinary: often troublesome, difficult or problematic, but sometimes extraordinary in a positive sense.
 
 ---
