@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-27
+## 📅 Word of the Day - 2025-05-28
 
-### **client**
-- **Meaning**: A customer, a buyer or receiver of goods or services.
+### **esteemed**
+- **Meaning**: To set a high value on; to regard with respect or reverence.
 
 ---
