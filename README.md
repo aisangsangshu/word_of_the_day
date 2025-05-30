@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-29
+## 📅 Word of the Day - 2025-05-30
 
-### **cardstock**
-- **Meaning**: Definition not found.
+### **problem**
+- **Meaning**: A difficulty that has to be resolved or dealt with.
 
 ---
