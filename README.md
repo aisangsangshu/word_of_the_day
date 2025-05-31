@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-05-30
+## 📅 Word of the Day - 2025-05-31
 
-### **problem**
-- **Meaning**: A difficulty that has to be resolved or dealt with.
+### **proximity**
+- **Meaning**: Closeness; the state of being near as in space, time, or relationship.
 
 ---
