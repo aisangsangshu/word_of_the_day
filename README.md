@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-01
+## 📅 Word of the Day - 2025-06-02
 
-### **tattle**
-- **Meaning**: A tattletale.
+### **autistic**
+- **Meaning**: A person who has autism.
 
 ---
