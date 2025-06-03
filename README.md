@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-02
+## 📅 Word of the Day - 2025-06-03
 
-### **autistic**
-- **Meaning**: A person who has autism.
+### **slimness**
+- **Meaning**: Definition not found.
 
 ---
