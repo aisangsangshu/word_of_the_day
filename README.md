@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-03
+## 📅 Word of the Day - 2025-06-04
 
-### **slimness**
+### **immorally**
 - **Meaning**: Definition not found.
 
 ---
