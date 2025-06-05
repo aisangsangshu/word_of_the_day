@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-04
+## 📅 Word of the Day - 2025-06-05
 
-### **immorally**
-- **Meaning**: Definition not found.
+### **disobey**
+- **Meaning**: To refuse or (intentionally) fail to obey an order of (somebody).
 
 ---
