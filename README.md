@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-05
+## 📅 Word of the Day - 2025-06-06
 
-### **disobey**
-- **Meaning**: To refuse or (intentionally) fail to obey an order of (somebody).
+### **childlike**
+- **Meaning**: Innocent and trustful; credulous; artless.
 
 ---
