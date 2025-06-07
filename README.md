@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-06
+## 📅 Word of the Day - 2025-06-07
 
-### **childlike**
-- **Meaning**: Innocent and trustful; credulous; artless.
+### **tremor**
+- **Meaning**: A shake, quiver, or vibration.
 
 ---
