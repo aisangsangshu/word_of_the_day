@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-07
+## 📅 Word of the Day - 2025-06-08
 
-### **tremor**
-- **Meaning**: A shake, quiver, or vibration.
+### **squealer**
+- **Meaning**: Any animal or person who squeals.
 
 ---
