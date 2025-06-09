@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-08
+## 📅 Word of the Day - 2025-06-09
 
-### **squealer**
-- **Meaning**: Any animal or person who squeals.
+### **bonnet**
+- **Meaning**: A type of hat, once worn by women or children, held in place by ribbons tied under the chin.
 
 ---
