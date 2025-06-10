@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-09
+## 📅 Word of the Day - 2025-06-10
 
-### **bonnet**
-- **Meaning**: A type of hat, once worn by women or children, held in place by ribbons tied under the chin.
+### **neutron**
+- **Meaning**: A subatomic particle forming part of the nucleus of an atom and having no charge; it is a combination of an up quark and two down quarks.
 
 ---
