@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-11
+## 📅 Word of the Day - 2025-06-12
 
-### **jaywalker**
-- **Meaning**: Definition not found.
+### **exodus**
+- **Meaning**: A sudden departure of a large number of people.
 
 ---
