@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-12
+## 📅 Word of the Day - 2025-06-13
 
-### **exodus**
-- **Meaning**: A sudden departure of a large number of people.
+### **lip**
+- **Meaning**: Either of the two fleshy protrusions around the opening of the mouth.
 
 ---
