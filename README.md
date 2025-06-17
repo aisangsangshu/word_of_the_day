@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-16
+## 📅 Word of the Day - 2025-06-17
 
-### **washout**
-- **Meaning**: An appliance designed to wash something out.
+### **settle**
+- **Meaning**: To conclude or resolve (something):
 
 ---
