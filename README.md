@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-19
+## 📅 Word of the Day - 2025-06-20
 
-### **comfy**
-- **Meaning**: Comfortable.
+### **hurled**
+- **Meaning**: To throw (something) with force.
 
 ---
