@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-20
+## 📅 Word of the Day - 2025-06-21
 
-### **hurled**
-- **Meaning**: To throw (something) with force.
+### **magma**
+- **Meaning**: The molten matter within the earth, the source of the material of lava flows, dikes of eruptive rocks, etc.
 
 ---
