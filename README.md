@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-21
+## 📅 Word of the Day - 2025-06-22
 
-### **magma**
-- **Meaning**: The molten matter within the earth, the source of the material of lava flows, dikes of eruptive rocks, etc.
+### **amply**
+- **Meaning**: In an ample manner.
 
 ---
