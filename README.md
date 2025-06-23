@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-22
+## 📅 Word of the Day - 2025-06-23
 
-### **amply**
-- **Meaning**: In an ample manner.
+### **antennae**
+- **Meaning**: A feeler organ on the head of an insect, crab, or other animal.
 
 ---
