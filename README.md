@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-23
+## 📅 Word of the Day - 2025-06-24
 
-### **antennae**
-- **Meaning**: A feeler organ on the head of an insect, crab, or other animal.
+### **amends**
+- **Meaning**: (usually in the plural) An act of righting a wrong; compensation.
 
 ---
