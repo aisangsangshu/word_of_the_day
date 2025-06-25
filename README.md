@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-24
+## 📅 Word of the Day - 2025-06-25
 
-### **amends**
-- **Meaning**: (usually in the plural) An act of righting a wrong; compensation.
+### **device**
+- **Meaning**: Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.
 
 ---
