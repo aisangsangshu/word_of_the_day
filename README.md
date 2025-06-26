@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-25
+## 📅 Word of the Day - 2025-06-26
 
-### **device**
-- **Meaning**: Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.
+### **overhaul**
+- **Meaning**: A major repair, remake, renovation, or revision.
 
 ---
