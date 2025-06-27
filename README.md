@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-26
+## 📅 Word of the Day - 2025-06-27
 
-### **overhaul**
-- **Meaning**: A major repair, remake, renovation, or revision.
+### **turret**
+- **Meaning**: A little tower, frequently a merely ornamental structure at one of the corners of a building or castle.
 
 ---
