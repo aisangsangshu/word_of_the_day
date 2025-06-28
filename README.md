@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-27
+## 📅 Word of the Day - 2025-06-28
 
-### **turret**
-- **Meaning**: A little tower, frequently a merely ornamental structure at one of the corners of a building or castle.
+### **ignore**
+- **Meaning**: To deliberately not listen or pay attention to.
 
 ---
