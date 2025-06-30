@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-29
+## 📅 Word of the Day - 2025-06-30
 
-### **prune**
-- **Meaning**: A plum.
+### **visible**
+- **Meaning**: Able to be seen.
 
 ---
