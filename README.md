@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-06-30
+## 📅 Word of the Day - 2025-07-01
 
-### **visible**
-- **Meaning**: Able to be seen.
+### **sharpie**
+- **Meaning**: Accipiter striatus, the smallest hawk to reside in USA and Canada, which preys on songbirds.
 
 ---
