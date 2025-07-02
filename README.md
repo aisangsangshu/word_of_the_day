@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-01
+## 📅 Word of the Day - 2025-07-02
 
-### **sharpie**
-- **Meaning**: Accipiter striatus, the smallest hawk to reside in USA and Canada, which preys on songbirds.
+### **doorknob**
+- **Meaning**: A circular device attached to a door, the rotation of which permits the unlatching of the door.
 
 ---
