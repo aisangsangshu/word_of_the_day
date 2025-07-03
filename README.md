@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-02
+## 📅 Word of the Day - 2025-07-03
 
-### **doorknob**
-- **Meaning**: A circular device attached to a door, the rotation of which permits the unlatching of the door.
+### **hazy**
+- **Meaning**: Thick or obscured with haze.
 
 ---
