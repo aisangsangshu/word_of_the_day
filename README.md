@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-03
+## 📅 Word of the Day - 2025-07-04
 
-### **hazy**
-- **Meaning**: Thick or obscured with haze.
+### **cocoa**
+- **Meaning**: The dried and partially fermented fatty seeds of the cacao tree from which chocolate is made.
 
 ---
