@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-04
+## 📅 Word of the Day - 2025-07-05
 
-### **cocoa**
-- **Meaning**: The dried and partially fermented fatty seeds of the cacao tree from which chocolate is made.
+### **quaintly**
+- **Meaning**: In a quaint manner; oddly; strangely.
 
 ---
