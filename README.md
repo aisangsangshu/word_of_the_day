@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-05
+## 📅 Word of the Day - 2025-07-06
 
-### **quaintly**
-- **Meaning**: In a quaint manner; oddly; strangely.
+### **polio**
+- **Meaning**: A sufferer from poliomyelitis.
 
 ---
