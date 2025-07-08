@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-07
+## 📅 Word of the Day - 2025-07-08
 
-### **dating**
-- **Meaning**: To note the time or place of writing or executing; to express in an instrument the time of its execution.
+### **sadden**
+- **Meaning**: To make sad or unhappy.
 
 ---
