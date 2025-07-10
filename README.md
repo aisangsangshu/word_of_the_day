@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-09
+## 📅 Word of the Day - 2025-07-10
 
-### **snowiness**
-- **Meaning**: Definition not found.
+### **blazing**
+- **Meaning**: To be on fire, especially producing bright flames.
 
 ---
