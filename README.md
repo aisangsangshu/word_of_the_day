@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-10
+## 📅 Word of the Day - 2025-07-11
 
-### **blazing**
-- **Meaning**: To be on fire, especially producing bright flames.
+### **elf**
+- **Meaning**: A luminous spirit presiding over nature and fertility and dwelling in the world of Álfheim (Elfland). Compare angel, nymph, fairy.
 
 ---
