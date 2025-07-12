@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-11
+## 📅 Word of the Day - 2025-07-12
 
-### **elf**
-- **Meaning**: A luminous spirit presiding over nature and fertility and dwelling in the world of Álfheim (Elfland). Compare angel, nymph, fairy.
+### **street**
+- **Meaning**: A paved part of road, usually in a village or a town.
 
 ---
