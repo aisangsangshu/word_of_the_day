@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-12
+## 📅 Word of the Day - 2025-07-13
 
-### **street**
-- **Meaning**: A paved part of road, usually in a village or a town.
+### **amplifier**
+- **Meaning**: Anything that amplifies, or makes something larger or more intense.
 
 ---
