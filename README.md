@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-13
+## 📅 Word of the Day - 2025-07-14
 
-### **amplifier**
-- **Meaning**: Anything that amplifies, or makes something larger or more intense.
+### **epic**
+- **Meaning**: An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic epic), other legend or traditional hero.
 
 ---
