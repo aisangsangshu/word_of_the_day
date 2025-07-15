@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-14
+## 📅 Word of the Day - 2025-07-15
 
-### **epic**
-- **Meaning**: An extended narrative poem in elevated or dignified language, celebrating the feats of a deity, demigod (heroic epic), other legend or traditional hero.
+### **confiding**
+- **Meaning**: To trust, have faith (in).
 
 ---
