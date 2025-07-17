@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-16
+## 📅 Word of the Day - 2025-07-17
 
-### **half**
-- **Meaning**: One of two usually roughly equal parts into which anything may be divided, or considered as divided.
+### **cardigan**
+- **Meaning**: A type of sweater or jumper that fastens up the front with buttons or a zipper, usually machine- or hand-knitted from wool.
 
 ---
