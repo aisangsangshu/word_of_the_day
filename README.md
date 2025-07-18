@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-17
+## 📅 Word of the Day - 2025-07-18
 
-### **cardigan**
-- **Meaning**: A type of sweater or jumper that fastens up the front with buttons or a zipper, usually machine- or hand-knitted from wool.
+### **filling**
+- **Meaning**: To occupy fully, to take up all of.
 
 ---
