@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-18
+## 📅 Word of the Day - 2025-07-19
 
-### **filling**
-- **Meaning**: To occupy fully, to take up all of.
+### **swoop**
+- **Meaning**: An instance, or the act of suddenly plunging downward.
 
 ---
