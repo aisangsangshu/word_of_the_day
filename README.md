@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-19
+## 📅 Word of the Day - 2025-07-20
 
-### **swoop**
-- **Meaning**: An instance, or the act of suddenly plunging downward.
+### **scam**
+- **Meaning**: A fraudulent deal.
 
 ---
