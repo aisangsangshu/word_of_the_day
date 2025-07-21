@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-20
+## 📅 Word of the Day - 2025-07-21
 
-### **scam**
-- **Meaning**: A fraudulent deal.
+### **ashy**
+- **Meaning**: Having the color of ashes.
 
 ---
