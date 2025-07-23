@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-22
+## 📅 Word of the Day - 2025-07-23
 
-### **unseated**
-- **Meaning**: To throw from one's seat; to deprive of a seat.
+### **worst**
+- **Meaning**: Unfavorable; negative; not good.
 
 ---
