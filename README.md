@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-23
+## 📅 Word of the Day - 2025-07-24
 
-### **worst**
-- **Meaning**: Unfavorable; negative; not good.
+### **stuck**
+- **Meaning**: To become or remain attached; to adhere.
 
 ---
