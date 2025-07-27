@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-26
+## 📅 Word of the Day - 2025-07-27
 
-### **cruelness**
-- **Meaning**: Definition not found.
+### **trustful**
+- **Meaning**: Trusting; willing to trust.
 
 ---
