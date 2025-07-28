@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-27
+## 📅 Word of the Day - 2025-07-28
 
-### **trustful**
-- **Meaning**: Trusting; willing to trust.
+### **dinner**
+- **Meaning**: A midday meal (in a context in which the evening meal is called supper or tea).
 
 ---
