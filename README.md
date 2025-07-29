@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-28
+## 📅 Word of the Day - 2025-07-29
 
-### **dinner**
-- **Meaning**: A midday meal (in a context in which the evening meal is called supper or tea).
+### **shallow**
+- **Meaning**: A shallow portion of an otherwise deep body of water.
 
 ---
