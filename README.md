@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-29
+## 📅 Word of the Day - 2025-07-30
 
-### **shallow**
-- **Meaning**: A shallow portion of an otherwise deep body of water.
+### **moneybags**
+- **Meaning**: A bag, normally with a drawstring, used for holding money.
 
 ---
