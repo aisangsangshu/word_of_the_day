@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-30
+## 📅 Word of the Day - 2025-07-31
 
-### **moneybags**
-- **Meaning**: A bag, normally with a drawstring, used for holding money.
+### **travesty**
+- **Meaning**: An absurd or grotesque misrepresentation.
 
 ---
