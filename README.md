@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-07-31
+## 📅 Word of the Day - 2025-08-01
 
-### **travesty**
-- **Meaning**: An absurd or grotesque misrepresentation.
+### **spinout**
+- **Meaning**: A skid that results in a car rotating so as not to be oriented in the direction of linear motion.
 
 ---
