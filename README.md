@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-04
+## 📅 Word of the Day - 2025-08-05
 
-### **coastland**
-- **Meaning**: Coastal land
+### **retaining**
+- **Meaning**: To keep in possession or use.
 
 ---
