@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-05
+## 📅 Word of the Day - 2025-08-06
 
-### **retaining**
-- **Meaning**: To keep in possession or use.
+### **energize**
+- **Meaning**: To invigorate; to make energetic.
 
 ---
