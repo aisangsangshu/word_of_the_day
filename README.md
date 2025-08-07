@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-06
+## 📅 Word of the Day - 2025-08-07
 
-### **energize**
-- **Meaning**: To invigorate; to make energetic.
+### **dipped**
+- **Meaning**: To lower into a liquid.
 
 ---
