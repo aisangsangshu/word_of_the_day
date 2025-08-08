@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-07
+## 📅 Word of the Day - 2025-08-08
 
-### **dipped**
-- **Meaning**: To lower into a liquid.
+### **driller**
+- **Meaning**: Definition not found.
 
 ---
