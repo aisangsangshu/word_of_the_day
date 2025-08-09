@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-08
+## 📅 Word of the Day - 2025-08-09
 
-### **driller**
-- **Meaning**: Definition not found.
+### **surpass**
+- **Meaning**: To go beyond, especially in a metaphoric or technical manner; to exceed.
 
 ---
