@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-09
+## 📅 Word of the Day - 2025-08-10
 
-### **surpass**
-- **Meaning**: To go beyond, especially in a metaphoric or technical manner; to exceed.
+### **bluff**
+- **Meaning**: An act of bluffing; a false expression of the strength of one's position in order to intimidate; braggadocio.
 
 ---
