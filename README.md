@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-10
+## 📅 Word of the Day - 2025-08-11
 
-### **bluff**
-- **Meaning**: An act of bluffing; a false expression of the strength of one's position in order to intimidate; braggadocio.
+### **squad**
+- **Meaning**: A group of people organized for some common purpose, usually of about ten members.
 
 ---
