@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-11
+## 📅 Word of the Day - 2025-08-12
 
-### **squad**
-- **Meaning**: A group of people organized for some common purpose, usually of about ten members.
+### **crayfish**
+- **Meaning**: To backpedal, desert or withdraw (also used with out).
 
 ---
