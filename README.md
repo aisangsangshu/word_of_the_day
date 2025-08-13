@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-12
+## 📅 Word of the Day - 2025-08-13
 
-### **crayfish**
-- **Meaning**: To backpedal, desert or withdraw (also used with out).
+### **cold**
+- **Meaning**: (of a thing) Having a low temperature.
 
 ---
