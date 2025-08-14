@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-13
+## 📅 Word of the Day - 2025-08-14
 
-### **cold**
-- **Meaning**: (of a thing) Having a low temperature.
+### **chaperone**
+- **Meaning**: An older person who accompanies other younger people to ensure the propriety of their behaviour, often an older woman accompanying a young woman.
 
 ---
