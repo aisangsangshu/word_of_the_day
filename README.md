@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-14
+## 📅 Word of the Day - 2025-08-15
 
-### **chaperone**
-- **Meaning**: An older person who accompanies other younger people to ensure the propriety of their behaviour, often an older woman accompanying a young woman.
+### **bonsai**
+- **Meaning**: A tree or plant that has been miniaturized by planting it in a small pot, restricting its roots, and by careful pruning.
 
 ---
