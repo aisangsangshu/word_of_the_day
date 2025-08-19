@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-18
+## 📅 Word of the Day - 2025-08-19
 
-### **outsource**
-- **Meaning**: To transfer the management and/or day-to-day execution of a business function to a third-party service provider.
+### **wrecking**
+- **Meaning**: To destroy violently; to cause severe damage to something, to a point where it no longer works, or is useless.
 
 ---
