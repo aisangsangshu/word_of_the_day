@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-19
+## 📅 Word of the Day - 2025-08-20
 
-### **wrecking**
-- **Meaning**: To destroy violently; to cause severe damage to something, to a point where it no longer works, or is useless.
+### **fineness**
+- **Meaning**: Definition not found.
 
 ---
