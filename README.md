@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-20
+## 📅 Word of the Day - 2025-08-21
 
-### **fineness**
-- **Meaning**: Definition not found.
+### **splendid**
+- **Meaning**: Possessing or displaying splendor; shining; very bright.
 
 ---
