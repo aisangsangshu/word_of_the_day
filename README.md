@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-21
+## 📅 Word of the Day - 2025-08-22
 
-### **splendid**
-- **Meaning**: Possessing or displaying splendor; shining; very bright.
+### **rut**
+- **Meaning**: Sexual desire or oestrus of cattle, and various other mammals.
 
 ---
