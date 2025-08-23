@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-22
+## 📅 Word of the Day - 2025-08-23
 
-### **rut**
-- **Meaning**: Sexual desire or oestrus of cattle, and various other mammals.
+### **fanfare**
+- **Meaning**: A flourish of trumpets or horns as to announce; a short and lively air performed on hunting horns during the chase.
 
 ---
