@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-23
+## 📅 Word of the Day - 2025-08-24
 
-### **fanfare**
-- **Meaning**: A flourish of trumpets or horns as to announce; a short and lively air performed on hunting horns during the chase.
+### **varsity**
+- **Meaning**: University
 
 ---
