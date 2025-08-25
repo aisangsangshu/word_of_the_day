@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-24
+## 📅 Word of the Day - 2025-08-25
 
-### **varsity**
-- **Meaning**: University
+### **unfitting**
+- **Meaning**: That is not fitting for its purpose
 
 ---
