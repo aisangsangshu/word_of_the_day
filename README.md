@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-25
+## 📅 Word of the Day - 2025-08-26
 
-### **unfitting**
-- **Meaning**: That is not fitting for its purpose
+### **postal**
+- **Meaning**: Relating to the collection, sorting and delivery of mail.
 
 ---
