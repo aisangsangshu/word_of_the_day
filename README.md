@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-27
+## 📅 Word of the Day - 2025-08-28
 
-### **bunkhouse**
-- **Meaning**: A building providing sleeping quarters for workers, especially in a rural setting.
+### **disparity**
+- **Meaning**: The state of being unequal; difference.
 
 ---
