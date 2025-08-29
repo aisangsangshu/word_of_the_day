@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-28
+## 📅 Word of the Day - 2025-08-29
 
-### **disparity**
-- **Meaning**: The state of being unequal; difference.
+### **scary**
+- **Meaning**: Causing or able to cause fright.
 
 ---
