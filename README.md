@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-29
+## 📅 Word of the Day - 2025-08-30
 
-### **scary**
-- **Meaning**: Causing or able to cause fright.
+### **unfrozen**
+- **Meaning**: To defrost something.
 
 ---
