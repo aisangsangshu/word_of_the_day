@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-30
+## 📅 Word of the Day - 2025-08-31
 
-### **unfrozen**
-- **Meaning**: To defrost something.
+### **glitzy**
+- **Meaning**: Brilliantly showy.
 
 ---
