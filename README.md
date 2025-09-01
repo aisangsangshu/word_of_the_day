@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-08-31
+## 📅 Word of the Day - 2025-09-01
 
-### **glitzy**
-- **Meaning**: Brilliantly showy.
+### **default**
+- **Meaning**: The condition of failing to meet an obligation.
 
 ---
