@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-01
+## 📅 Word of the Day - 2025-09-02
 
-### **default**
-- **Meaning**: The condition of failing to meet an obligation.
+### **shine**
+- **Meaning**: Brightness from a source of light.
 
 ---
