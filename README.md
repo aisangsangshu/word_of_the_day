@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-02
+## 📅 Word of the Day - 2025-09-03
 
-### **shine**
-- **Meaning**: Brightness from a source of light.
+### **strategic**
+- **Meaning**: Of or pertaining to strategy
 
 ---
