@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-03
+## 📅 Word of the Day - 2025-09-04
 
-### **strategic**
-- **Meaning**: Of or pertaining to strategy
+### **blooming**
+- **Meaning**: To cause to blossom; to make flourish.
 
 ---
