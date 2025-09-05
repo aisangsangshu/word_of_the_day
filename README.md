@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-04
+## 📅 Word of the Day - 2025-09-05
 
-### **blooming**
-- **Meaning**: To cause to blossom; to make flourish.
+### **handiness**
+- **Meaning**: Definition not found.
 
 ---
