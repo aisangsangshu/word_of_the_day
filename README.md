@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-05
+## 📅 Word of the Day - 2025-09-06
 
-### **handiness**
-- **Meaning**: Definition not found.
+### **tacky**
+- **Meaning**: Of a substance, slightly sticky.
 
 ---
