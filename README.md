@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-07
+## 📅 Word of the Day - 2025-09-08
 
-### **arbitrary**
-- **Meaning**: Anything arbitrary, such as an arithmetical value or a fee.
+### **varnish**
+- **Meaning**: A type of paint with a solvent that evaporates to leave a hard, transparent, glossy film.
 
 ---
