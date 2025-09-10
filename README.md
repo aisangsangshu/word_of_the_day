@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-09
+## 📅 Word of the Day - 2025-09-10
 
-### **petunia**
-- **Meaning**: Any of the flowering plants of genus Petunia, of which most garden varieties are hybrids.
+### **corporate**
+- **Meaning**: A bond issued by a corporation.
 
 ---
