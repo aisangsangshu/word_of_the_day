@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-10
+## 📅 Word of the Day - 2025-09-11
 
-### **corporate**
-- **Meaning**: A bond issued by a corporation.
+### **unlovable**
+- **Meaning**: Not lovable.
 
 ---
