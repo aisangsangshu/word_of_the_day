@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-11
+## 📅 Word of the Day - 2025-09-12
 
-### **unlovable**
-- **Meaning**: Not lovable.
+### **deflected**
+- **Meaning**: To make (something) deviate from its original path.
 
 ---
