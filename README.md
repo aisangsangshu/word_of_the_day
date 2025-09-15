@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-14
+## 📅 Word of the Day - 2025-09-15
 
-### **faceless**
-- **Meaning**: Having no face
+### **oncoming**
+- **Meaning**: To arrive; come to; come on.
 
 ---
