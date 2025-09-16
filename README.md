@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-15
+## 📅 Word of the Day - 2025-09-16
 
-### **oncoming**
-- **Meaning**: To arrive; come to; come on.
+### **escapist**
+- **Meaning**: Someone who wants to escape; especially from reality
 
 ---
