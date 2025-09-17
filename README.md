@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-16
+## 📅 Word of the Day - 2025-09-17
 
-### **escapist**
-- **Meaning**: Someone who wants to escape; especially from reality
+### **heaviness**
+- **Meaning**: The state of being heavy; weight, weightiness, force of impact or gravity.
 
 ---
