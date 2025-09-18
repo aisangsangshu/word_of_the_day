@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-17
+## 📅 Word of the Day - 2025-09-18
 
-### **heaviness**
-- **Meaning**: The state of being heavy; weight, weightiness, force of impact or gravity.
+### **bartender**
+- **Meaning**: One who tends a bar or pub; a person preparing and serving drinks at a bar.
 
 ---
