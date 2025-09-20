@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-19
+## 📅 Word of the Day - 2025-09-20
 
-### **outsell**
-- **Meaning**: To sell more than; to surpass in sales.
+### **impart**
+- **Meaning**: To give or bestow (e.g. a quality or property).
 
 ---
