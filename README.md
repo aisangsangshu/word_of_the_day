@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-21
+## 📅 Word of the Day - 2025-09-22
 
-### **habitant**
-- **Meaning**: A member of habitation colony at Stadacona founded by Samuel de Champlain, where Quebec City now lies
+### **choking**
+- **Meaning**: To be unable to breathe because of obstruction of the windpipe (for instance food or other objects that go down the wrong way, or fumes or particles in the air that cause the throat to constrict).
 
 ---
