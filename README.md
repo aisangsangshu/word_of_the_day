@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-22
+## 📅 Word of the Day - 2025-09-23
 
-### **choking**
-- **Meaning**: To be unable to breathe because of obstruction of the windpipe (for instance food or other objects that go down the wrong way, or fumes or particles in the air that cause the throat to constrict).
+### **affirm**
+- **Meaning**: To agree, verify or concur; to answer positively.
 
 ---
