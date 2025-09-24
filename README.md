@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-23
+## 📅 Word of the Day - 2025-09-24
 
-### **affirm**
-- **Meaning**: To agree, verify or concur; to answer positively.
+### **coil**
+- **Meaning**: Something wound in the form of a helix or spiral.
 
 ---
