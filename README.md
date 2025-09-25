@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-24
+## 📅 Word of the Day - 2025-09-25
 
-### **coil**
-- **Meaning**: Something wound in the form of a helix or spiral.
+### **bovine**
+- **Meaning**: An animal of the family, subfamily, tribe, or genera including cattle, buffaloes and bison.
 
 ---
