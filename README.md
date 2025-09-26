@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-25
+## 📅 Word of the Day - 2025-09-26
 
-### **bovine**
-- **Meaning**: An animal of the family, subfamily, tribe, or genera including cattle, buffaloes and bison.
+### **aged**
+- **Meaning**: To cause to grow old; to impart the characteristics of age to.
 
 ---
