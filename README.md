@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-26
+## 📅 Word of the Day - 2025-09-27
 
-### **aged**
-- **Meaning**: To cause to grow old; to impart the characteristics of age to.
+### **acquire**
+- **Meaning**: To get.
 
 ---
