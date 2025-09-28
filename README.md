@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-27
+## 📅 Word of the Day - 2025-09-28
 
-### **acquire**
-- **Meaning**: To get.
+### **skillet**
+- **Meaning**: A pan for frying, generally large and heavy.
 
 ---
