@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-29
+## 📅 Word of the Day - 2025-09-30
 
-### **outsell**
-- **Meaning**: To sell more than; to surpass in sales.
+### **choosing**
+- **Meaning**: To pick; to make the choice of; to select.
 
 ---
