@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-09-30
+## 📅 Word of the Day - 2025-10-01
 
-### **choosing**
-- **Meaning**: To pick; to make the choice of; to select.
+### **apostle**
+- **Meaning**: A missionary, or leader of a religious mission, especially one in the early Christian Church (but see Apostle).
 
 ---
