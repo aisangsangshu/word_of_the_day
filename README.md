@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-10-01
+## 📅 Word of the Day - 2025-10-02
 
-### **apostle**
-- **Meaning**: A missionary, or leader of a religious mission, especially one in the early Christian Church (but see Apostle).
+### **violation**
+- **Meaning**: The act or an instance of violating or the condition of being violated.
 
 ---
