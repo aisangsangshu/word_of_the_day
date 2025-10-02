@@ -39,8 +39,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "manas-08"
-          git config --global user.email "manashende2004@gmail.com"
+          git config --global user.name "aisangsangshu"
+          git config --global user.email "aisangsangshu@gmail.com"
 
       - name: Set authentic remote
         run: git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}
