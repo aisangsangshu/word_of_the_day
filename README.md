@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-10-02
+## 📅 Word of the Day - 2025-10-03
 
-### **chimp**
-- **Meaning**: To review each image on a digital camera after it is taken.
+### **ardently**
+- **Meaning**: Fervently
 
 ---
