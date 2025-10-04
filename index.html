@@ -136,6 +136,8 @@
     <p class="date" id="date">📅 Loading...</p>
     <div class="word" id="word">Loading...</div>
     <p class="meaning" id="meaning"><b>Meaning</b>: Loading...</p>
+    <!-- js会根据id来替换id右边右尖括号的内容，包括b标签 -->
+    <p class="zh-meaning" id="zh-meaning"><b>Meaning</b>: Loading...</p>
 
     <!-- Loading spinner (initially shown) -->
     <div class="spinner-container" id="spinner">
@@ -157,16 +159,19 @@
           const dateMatch = data.match(/## 📅 Word of the Day - (.*?)\n/);
           const wordMatch = data.match(/### \*\*(.*?)\*\*/);
           const meaningMatch = data.match(/- \*\*Meaning\*\*: (.*?)\n/);
+          const zhMeaningMatch = data.match(/- \*\*zh-Meaning\*\*: (.*?)\n/);
           
           // Extract the information
           const date = dateMatch ? dateMatch[1] : 'Unknown date';
           const word = wordMatch ? wordMatch[1] : 'Unknown word';
           const meaning = meaningMatch ? meaningMatch[1] : 'Meaning not available';
-          
+          const zhMeaning = zhMeaningMatch ? zhMeaningMatch[1] : 'Meaning not available';
           // Update the elements
           document.getElementById('date').innerHTML = `📅 ${date}`;
           document.getElementById('word').innerHTML = word;
           document.getElementById('meaning').innerHTML = `<b>Meaning</b>: ${meaning}`;
+          
+          document.getElementById('zh-meaning').innerHTML = `<b>zh-Meaning</b>: ${zhMeaning}`;
           
           // Hide the spinner
           document.getElementById('spinner').style.display = 'none';
