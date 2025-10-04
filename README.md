@@ -1,6 +1,6 @@
-## 📅 Word of the Day - 2025-10-03
+## 📅 Word of the Day - 2025-10-04
 
-### **ardently**
-- **Meaning**: Fervently
+### **womanlike**
+- **Meaning**: Definition not found.
 
 ---
