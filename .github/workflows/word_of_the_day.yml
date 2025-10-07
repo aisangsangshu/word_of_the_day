@@ -1,52 +1,140 @@
-name: Word of the Day Updater
+name: Optimized Linux Interval Export
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+    - cron: '0 16,20,0,4,8,12 * * *'
   workflow_dispatch:
 
 jobs:
-  update-word:
-    runs-on: ubuntu-latest
-
+  export-next-content:
+    runs-on: self-hosted
+    environment: production
+    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run word fetch script
-        id: extract
-        run: python fetch_word.py
-
-      - name: Debug outputs
-        run: |
-          echo "Word: ${{ steps.extract.outputs.word }}"
-          echo "Meaning: ${{ steps.extract.outputs.meaning }}"
-          echo "Date: ${{ steps.extract.outputs.date }}"
-
-      - name: Inject word into HTML
-        run: |
-          sed -i "s|{{DATE}}|${{ steps.extract.outputs.date }}|g" index.html
-          sed -i "s|{{WORD}}|${{ steps.extract.outputs.word }}|g" index.html
-          sed -i "s|{{MEANING}}|${{ steps.extract.outputs.meaning }}|g" index.html
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "aisangsangshu"
-          git config --global user.email "aisangsangshu@gmail.com"
-
-      - name: Set authentic remote
-        run: git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}
-
-      - name: Commit and push changes
-        run: |
-          git add README.md index.html
-          git commit -m "Update word of the day and index.html" || echo "Nothing to commit"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    # 使用预安装的PostgreSQL客户端（如果Runner镜像已包含）
+    - name: Verify PostgreSQL client
+      run: |
+        if ! command -v psql &> /dev/null; then
+          echo "Installing PostgreSQL client..."
+          sudo apt-get update
+          sudo apt-get install -y postgresql-client
+        else
+          echo "PostgreSQL client already installed: $(psql --version)"
+        fi
+    
+    - name: Export next content
+      env:
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_PORT: ${{ secrets.DB_PORT }}
+        DB_NAME: ${{ secrets.DB_NAME }}
+        DB_USER: ${{ secrets.DB_USER }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      run: |
+        # 从数据库获取当天最早未发布的记录
+        echo "🔍 查询下一条未发布记录..."
+        export PGPASSWORD="$DB_PASSWORD"
+        psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER" -d "$DB_NAME" -t -c "
+        SELECT 
+          id, 
+          html, 
+          created_at,
+          title
+        FROM exports 
+        WHERE export_date = CURRENT_DATE 
+          AND published = false 
+        ORDER BY created_at ASC 
+        LIMIT 1;
+        " > /tmp/next_record.txt
+        
+        # 处理单条记录
+        if [ -s /tmp/next_record.txt ]; then
+          echo "📝 开始处理下一条记录..."
+          
+          # 使用awk处理单条记录
+          awk -F'|' '
+          {
+            if (NF >= 4) {
+              id = $1
+              html = $2
+              created_at = $3
+              title = $4
+              
+              # 清理数据
+              gsub(/^[ \t]+|[ \t]+$/, "", id)
+              gsub(/^[ \t]+|[ \t]+$/, "", html)
+              gsub(/^[ \t]+|[ \t]+$/, "", created_at)
+              gsub(/^[ \t]+|[ \t]+$/, "", title)
+              
+              # 直接覆盖到index.html
+              print html > "index.html"
+              print "✅ 导出记录: index.html (ID: " id ", 时间: " created_at ")"
+            }
+          }
+          ' /tmp/next_record.txt
+          
+          # 检查是否成功生成文件
+          if [ -f "index.html" ]; then
+            echo "✅ 成功导出内容到index.html"
+            echo "📁 文件大小: $(wc -c < index.html) bytes"
+          else
+            echo "⚠️ 没有找到未发布记录，跳过部署"
+            exit 0
+          fi
+        else
+          echo "⚠️ 没有找到未发布记录，跳过部署"
+          exit 0
+        fi
+    
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet HEAD -- index.html; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "📝 没有内容变更，跳过提交"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "📝 检测到内容变更"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        git add index.html
+        git commit -m "📅 Update index.html $(date +%Y-%m-%d-%H-%M)"
+        git push origin main
+        
+        echo "🚀 index.html已提交并推送到GitHub"
+    
+    - name: Update database published status
+      if: steps.changes.outputs.changes == 'true'
+      env:
+        DB_HOST: ${{ secrets.DB_HOST }}
+        DB_PORT: ${{ secrets.DB_PORT }}
+        DB_NAME: ${{ secrets.DB_NAME }}
+        DB_USER: ${{ secrets.DB_USER }}
+        DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+      run: |
+        # 标记当前处理的记录为已发布
+        export PGPASSWORD="$DB_PASSWORD"
+        psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER" -d "$DB_NAME" -c "
+        UPDATE exports 
+        SET published = true 
+        WHERE export_date = CURRENT_DATE 
+          AND published = false 
+          AND id = (
+            SELECT id FROM exports 
+            WHERE export_date = CURRENT_DATE 
+              AND published = false 
+            ORDER BY created_at ASC 
+            LIMIT 1
+          );
+        "
+        echo "✅ 当前记录已标记为已发布"
