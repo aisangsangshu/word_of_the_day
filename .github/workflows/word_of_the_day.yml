@@ -38,7 +38,10 @@ jobs:
         # 从数据库获取当天最早未发布的记录
         echo "🔍 查询下一条未发布记录..."
         echo "连接数据库: $DB_HOST:$DB_PORT"
+        echo "数据库用户: $DB_USER"
+        echo "数据库名称: $DB_NAME"
         export PGPASSWORD="$DB_PASSWORD"
+        echo "PGPASSWORD已设置"
         psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER" -d "$DB_NAME" -t -c "
         SELECT 
           id, 
