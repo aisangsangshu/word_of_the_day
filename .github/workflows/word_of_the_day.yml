@@ -29,14 +29,15 @@ jobs:
     
     - name: Export next content
       env:
-        DB_HOST: ${{ secrets.DB_HOST }}
-        DB_PORT: ${{ secrets.DB_PORT }}
+        DB_HOST: "ydlj-pg"  # 使用容器名
+        DB_PORT: "5432"     # 容器内部端口
         DB_NAME: ${{ secrets.DB_NAME }}
         DB_USER: ${{ secrets.DB_USER }}
         DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
       run: |
         # 从数据库获取当天最早未发布的记录
         echo "🔍 查询下一条未发布记录..."
+        echo "连接数据库: $DB_HOST:$DB_PORT"
         export PGPASSWORD="$DB_PASSWORD"
         psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USER" -d "$DB_NAME" -t -c "
         SELECT 
@@ -116,8 +117,8 @@ jobs:
     - name: Update database published status
       if: steps.changes.outputs.changes == 'true'
       env:
-        DB_HOST: ${{ secrets.DB_HOST }}
-        DB_PORT: ${{ secrets.DB_PORT }}
+        DB_HOST: "ydlj-pg"  # 使用容器名
+        DB_PORT: "5432"     # 容器内部端口
         DB_NAME: ${{ secrets.DB_NAME }}
         DB_USER: ${{ secrets.DB_USER }}
         DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
